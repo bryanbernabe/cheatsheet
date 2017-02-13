@@ -1,0 +1,1 @@
+wsgen -verbose -keep -cp . <fully qualified name of java file> -wsdl
